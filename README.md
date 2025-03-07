@@ -8,7 +8,7 @@ Berikut adalah penjelasan mengenai struktur folder dalam repository ini:
 Berisi skrip untuk mengambil data dari Bursa Efek Indonesia (IDX).
 - scrape_idx.py : Mengambil data saham dari IDX menggunakan web scraping.
 - insert_to_mongodb.py : Memproses dan menyimpan data yang telah diambil ke dalam MongoDB.
-webdriver/ : Folder berisi msedgedriver.exe, yang digunakan untuk web scraping.
+- webdriver/ : Folder berisi msedgedriver.exe, yang digunakan untuk web scraping.
 
 ### Script IQNews
 Berisi skrip untuk mengambil berita pasar modal dari IQPlus.
