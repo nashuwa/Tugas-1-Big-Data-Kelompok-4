@@ -1,3 +1,5 @@
+# pip install pymongo
+
 import json
 from pymongo import MongoClient
 
